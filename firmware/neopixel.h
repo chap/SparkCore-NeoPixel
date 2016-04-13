@@ -59,6 +59,7 @@
 #define TM1803   0x03 // 400 KHz datastream (Radio Shack Tri-Color Strip)
 #define TM1829   0x04 // 800 KHz datastream ()
 #define WS2812B2 0x05 // 800 KHz datastream (NeoPixel)
+#define SK6812MINI 0x06 // 800 KHz datastream (NeoPixel Mini)
 
 class Adafruit_NeoPixel {
 
